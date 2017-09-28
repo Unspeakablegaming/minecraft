@@ -1,0 +1,22 @@
+<html>
+  <head>
+  <style>
+  body {
+    background-color: black;
+}
+body { 
+  text-align:center;
+  
+}
+body{
+  image-orientation:center
+}
+  </style>
+  </head>
+  <body>
+  <img src="http://3.bp.blogspot.com/-4IzYIqwVISs/U_Z-K0LpU7I/AAAAAAAAIGg/UVVa_qFMlRY/s1600/logo_final.png" alt="Star wars commander logo" style="width:px;height:440px;">
+<h1 style="color:yellow">Welcome Young Commander</h1>
+<p style="color:yellow">Welcome to the galaxy! In this world full of Starships and lazer guns and BATTLES.  Join the Empire or the Rebelion and fight for your side. Join squads and battle with friends. </p>
+
+  <body>
+</html>
